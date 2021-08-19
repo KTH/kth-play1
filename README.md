@@ -4,7 +4,7 @@
 Different versions can be found in its own Git branch. The branch name tells you what base version is used. This version is also hardcoded into the Dockerfile. The maintained branches are build every night to have the latest security patches installed. After being built the image is pushed to [KTH:s public account on Docker Hub](https://hub.docker.com/r/kthse/kth-play1/tags/).
 
 ## Build and publishing
-Each branch builds and publishes to [Docker Hub](https://hub.docker.com/r/kthse/kth-play1/tags/) daily.
+Each branch builds and publishes to 🐳 [Docker Hub](https://hub.docker.com/r/kthse/kth-play1/tags/) daily.
 
 ## What versions are installed?
 The image tag tells you what version you are using so `kth-play1:1.5.* is Play! v1.5*`and so on.
