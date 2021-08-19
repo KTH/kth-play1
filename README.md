@@ -13,13 +13,13 @@ Each built image has information about its version in a file called `KTH_PLAY1`.
 
 ```bash
 IMAGE INFORMATION
-Build date: Thu Oct 11 08:36:31 UTC 2018
+Build date: Fri Jun  5 08:12:03 UTC 2020
 Play: 1.5.0
 Java:
-openjdk version "1.8.0_171"
-OpenJDK Runtime Environment (IcedTea 3.8.0) (Alpine 8.171.11-r0)
-OpenJDK 64-Bit Server VM (build 25.171-b11, mixed mode)
-Alpine version: 3.8.1
+openjdk version "1.8.0_212"
+OpenJDK Runtime Environment (IcedTea 3.12.0) (Alpine 8.212.04-r0)
+OpenJDK 64-Bit Server VM (build 25.212-b04, mixed mode)
+Alpine version: 3.9.4
 
 ```
 
