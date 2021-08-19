@@ -1,4 +1,4 @@
-# Play Framework - v.1.x
+# Play Framework - v.1.x  ![Continous Integration](https://github.com/KTH/kth-play1/actions/workflows/evolene-ci.yml/badge.svg)
 
 ## Versions 
 Different versions can be found in its own Git branch. The branch name tells you what base version is used. This version is also hardcoded into the Dockerfile. The maintained branches are build every night to have the latest security patches installed. After being built the image is pushed to [KTH:s public account on Docker Hub](https://hub.docker.com/r/kthse/kth-play1/tags/).
