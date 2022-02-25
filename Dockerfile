@@ -1,4 +1,4 @@
-FROM openjdk:8-slim AS slim
+FROM openjdk:alpine-slim AS slim
 
 RUN apt-get update && apt-get -y install wget python unzip
 RUN wget --quiet https://downloads.typesafe.com/play/1.5.3/play-1.5.3.zip && \
