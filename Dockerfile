@@ -1,6 +1,6 @@
 FROM eclipse-temurin:8-jdk AS slim
 
-RUN apt-get update && apt-get -y install wget python3 unzip
+RUN apt-get update && apt-get -y install wget python2 unzip
 RUN wget --quiet https://downloads.typesafe.com/play/1.5.3/play-1.5.3.zip && \
     unzip play-1.5.3.zip && rm play-1.5.3.zip && \
     mv play-1.5.3 play && \
